@@ -1,10 +1,16 @@
-<h1>Main things:</h1>
-<li>
-    <ul>npm i</ul>
-    <ul>php artisan serve</ul>
-    <ul>npm run dev</ul>
-    <ul>http://127.0.0.1:8000</ul>
-</li>
+<h2>Main things:</h2>
+<ul>
+    <li>update .env</li>
+    <li>npm i</>
+    <li>php artisan serve</li>
+    <li>npm run dev</li>
+    <li>http://127.0.0.1:8000</li>
+</ul>
+<h4>P.S. DTO, Security and testing explanations on conversations</h4>
+
+
+
+
 
 
 
